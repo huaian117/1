@@ -1,0 +1,14 @@
+#include ../stems/ww_1822a.obj
+#include ../stems/ww_1822c.obj
+#include ../stems/ww_1822d.obj
+#include ../stems/ww_1822e.obj
+#include ../stems/ww_562.obj
+!{
+#define
+g scene_part_58 0
+clone 0 0 0 0 ww_1822a 0
+clone 0 0 0 0 ww_1822c 0
+clone 0 0 0 0 ww_1822d 0
+clone 0 0 0 0 ww_1822e 0
+clone 0 0 0 0 ww_562 0
+!}

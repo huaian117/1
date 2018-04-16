@@ -1,0 +1,12 @@
+#include ../leaves/lm_1776.obj
+#include ../leaves/lm_393.obj
+#include ../leaves/lm_8023.obj
+#include ../leaves/lm_877.obj
+!{
+#define
+g scene_part_119 0
+clone 0 0 0 0 lm_1776 0
+clone 0 0 0 0 lm_393 0
+clone 0 0 0 0 lm_8023 0
+clone 0 0 0 0 lm_877 0
+!}

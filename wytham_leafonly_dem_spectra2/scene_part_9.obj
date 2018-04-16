@@ -1,0 +1,8 @@
+#include ../leaves/lm_1730.obj
+#include ../leaves/lm_60.obj
+!{
+#define
+g scene_part_9 0
+clone 0 0 0 0 lm_1730 0
+clone 0 0 0 0 lm_60 0
+!}

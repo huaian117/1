@@ -1,0 +1,12 @@
+#include ../stems/ww_255a.obj
+#include ../stems/ww_255b.obj
+#include ../stems/ww_255c.obj
+#include ../stems/ww_255d.obj
+!{
+#define
+g scene_part_64 0
+clone 0 0 0 0 ww_255a 0
+clone 0 0 0 0 ww_255b 0
+clone 0 0 0 0 ww_255c 0
+clone 0 0 0 0 ww_255d 0
+!}

@@ -1,0 +1,47 @@
+camera {
+#camera type - others are spherical, planar, albedo
+camera.name = "simple camera";
+#default is orthographic
+geometry.perspective = TRUE;
+
+#geometry
+geometry.azimuth = 0.0;
+geometry.zenith = 0.;
+geometry.twist = 0.0;
+geometry.lookAt = 100., 150., 0;
+#93., 151., 0.;
+geometry.location = 100., 150., 800.;
+#93., 151.,200;
+geometry.boomLength = 0.;
+geometry.idealArea = 25;
+geometry.fieldOfView = 80;
+geometry.boomLength = 0.;
+samplingCharacteristics.nPixels = 261121;
+samplingCharacteristics.rpp = 10;
+
+#basic o/p
+#result.integral.mode = "scattering order"
+#result.integral.format = "ascii"
+#result.integral.mode = "waveband"
+result.image = "test_result.hips"
+#result.integral = "output/2birches.results"
+
+#sampling options
+#result.samplingImage = "samplingImage.hips"
+#samplingPattern.OPImage = "testOPImage.hips"
+#samplingPattern.sampleCountImage = "testsampleCountImage.hips"
+#samplingPattern.gridMap = "testgridMap.hips"
+#samplingPattern.size = 512,512;
+#samplingPattern.form = "circular"
+#samplingPattern.form = "gaussian"
+#samplingPattern.sd = 50,50;
+#samplingPattern.centre = 0,0;
+
+#lidar options
+#result.integral = "results_lidar.dat"
+#result.integral.mode = "distance"
+#lidar.nBins = 150
+#lidar.binStart = 17.6
+#lidar.binStep = 0.1
+}
+

@@ -1,0 +1,14 @@
+#include ../stems/ww_1009b.obj
+#include ../stems/ww_8011.obj
+#include ../stems/ww_8012a.obj
+#include ../stems/ww_8012b.obj
+#include ../stems/ww_937.obj
+!{
+#define
+g scene_part_98 0
+clone 0 0 0 0 ww_1009b 0
+clone 0 0 0 0 ww_8011 0
+clone 0 0 0 0 ww_8012a 0
+clone 0 0 0 0 ww_8012b 0
+clone 0 0 0 0 ww_937 0
+!}

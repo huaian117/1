@@ -1,0 +1,6 @@
+#include ../stems/ww_283.obj
+!{
+#define
+g scene_part_4 0
+clone 0 0 0 0 ww_283 0
+!}

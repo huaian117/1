@@ -1,0 +1,12 @@
+#include ../leaves/lm_8019.obj
+#include ../leaves/lm_8115b.obj
+#include ../stems/ww_8019.obj
+#include ../stems/ww_8115b.obj
+!{
+#define
+g scene_part_83 0
+clone 0 0 0 0 lm_8019 0
+clone 0 0 0 0 lm_8115b 0
+clone 0 0 0 0 ww_8019 0
+clone 0 0 0 0 ww_8115b 0
+!}

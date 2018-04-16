@@ -1,0 +1,32 @@
+#include ../leaves/lm_1520.obj
+#include ../leaves/lm_154.obj
+#include ../leaves/lm_350.obj
+#include ../leaves/lm_638.obj
+#include ../leaves/lm_8082.obj
+#include ../leaves/lm_8083.obj
+#include ../leaves/lm_893b.obj
+#include ../stems/ww_1520.obj
+#include ../stems/ww_154.obj
+#include ../stems/ww_350.obj
+#include ../stems/ww_638.obj
+#include ../stems/ww_8082.obj
+#include ../stems/ww_8083.obj
+#include ../stems/ww_893b.obj
+!{
+#define
+g scene_part_29 0
+clone 0 0 0 0 lm_1520 0
+clone 0 0 0 0 lm_154 0
+clone 0 0 0 0 lm_350 0
+clone 0 0 0 0 lm_638 0
+clone 0 0 0 0 lm_8082 0
+clone 0 0 0 0 lm_8083 0
+clone 0 0 0 0 lm_893b 0
+clone 0 0 0 0 ww_1520 0
+clone 0 0 0 0 ww_154 0
+clone 0 0 0 0 ww_350 0
+clone 0 0 0 0 ww_638 0
+clone 0 0 0 0 ww_8082 0
+clone 0 0 0 0 ww_8083 0
+clone 0 0 0 0 ww_893b 0
+!}

@@ -1,0 +1,12 @@
+#include ../stems/ww_1918.obj
+#include ../stems/ww_654a.obj
+#include ../stems/ww_654b.obj
+#include ../stems/ww_8084.obj
+!{
+#define
+g scene_part_30 0
+clone 0 0 0 0 ww_1918 0
+clone 0 0 0 0 ww_654a 0
+clone 0 0 0 0 ww_654b 0
+clone 0 0 0 0 ww_8084 0
+!}

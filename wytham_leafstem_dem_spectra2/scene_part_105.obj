@@ -1,0 +1,20 @@
+#include ../leaves/lm_1920.obj
+#include ../leaves/lm_568.obj
+#include ../leaves/lm_8193.obj
+#include ../leaves/lm_853.obj
+#include ../stems/ww_1920.obj
+#include ../stems/ww_568.obj
+#include ../stems/ww_8193.obj
+#include ../stems/ww_853.obj
+!{
+#define
+g scene_part_105 0
+clone 0 0 0 0 lm_1920 0
+clone 0 0 0 0 lm_568 0
+clone 0 0 0 0 lm_8193 0
+clone 0 0 0 0 lm_853 0
+clone 0 0 0 0 ww_1920 0
+clone 0 0 0 0 ww_568 0
+clone 0 0 0 0 ww_8193 0
+clone 0 0 0 0 ww_853 0
+!}

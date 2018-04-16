@@ -1,0 +1,14 @@
+#include ../leaves/lm_1108.obj
+#include ../leaves/lm_1482.obj
+#include ../leaves/lm_2225.obj
+#include ../leaves/lm_439.obj
+#include ../leaves/lm_8198.obj
+!{
+#define
+g scene_part_115 0
+clone 0 0 0 0 lm_1108 0
+clone 0 0 0 0 lm_1482 0
+clone 0 0 0 0 lm_2225 0
+clone 0 0 0 0 lm_439 0
+clone 0 0 0 0 lm_8198 0
+!}

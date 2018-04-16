@@ -1,0 +1,10 @@
+#include ../leaves/lm_868.obj
+#include ../leaves/lm_9095.obj
+#include ../leaves/lm_945a.obj
+!{
+#define
+g scene_part_8 0
+clone 0 0 0 0 lm_868 0
+clone 0 0 0 0 lm_9095 0
+clone 0 0 0 0 lm_945a 0
+!}

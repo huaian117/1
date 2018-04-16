@@ -1,0 +1,12 @@
+#include ../stems/ww_1043.obj
+#include ../stems/ww_2033.obj
+#include ../stems/ww_240.obj
+#include ../stems/ww_869.obj
+!{
+#define
+g scene_part_47 0
+clone 0 0 0 0 ww_1043 0
+clone 0 0 0 0 ww_2033 0
+clone 0 0 0 0 ww_240 0
+clone 0 0 0 0 ww_869 0
+!}

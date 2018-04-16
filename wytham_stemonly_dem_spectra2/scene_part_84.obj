@@ -1,0 +1,8 @@
+#include ../stems/ww_1147.obj
+#include ../stems/ww_8018.obj
+!{
+#define
+g scene_part_84 0
+clone 0 0 0 0 ww_1147 0
+clone 0 0 0 0 ww_8018 0
+!}

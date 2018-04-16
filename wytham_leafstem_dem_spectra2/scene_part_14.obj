@@ -1,0 +1,14 @@
+#include ../leaves/lm_138a.obj
+#include ../leaves/lm_29.obj
+#include ../stems/ww_138a.obj
+#include ../stems/ww_29.obj
+#include ../stems/ww_9087.obj
+!{
+#define
+g scene_part_14 0
+clone 0 0 0 0 lm_138a 0
+clone 0 0 0 0 lm_29 0
+clone 0 0 0 0 ww_138a 0
+clone 0 0 0 0 ww_29 0
+clone 0 0 0 0 ww_9087 0
+!}

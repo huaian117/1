@@ -1,0 +1,18 @@
+#include ../leaves/lm_1268b.obj
+#include ../leaves/lm_1593d.obj
+#include ../leaves/lm_1832.obj
+#include ../leaves/lm_1861b.obj
+#include ../stems/ww_1268b.obj
+#include ../stems/ww_1593d.obj
+#include ../stems/ww_1861b.obj
+!{
+#define
+g scene_part_92 0
+clone 0 0 0 0 lm_1268b 0
+clone 0 0 0 0 lm_1593d 0
+clone 0 0 0 0 lm_1832 0
+clone 0 0 0 0 lm_1861b 0
+clone 0 0 0 0 ww_1268b 0
+clone 0 0 0 0 ww_1593d 0
+clone 0 0 0 0 ww_1861b 0
+!}

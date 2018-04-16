@@ -1,0 +1,10 @@
+#include ../leaves/lm_8028a.obj
+#include ../stems/ww_8028a.obj
+#include ../stems/ww_8028b.obj
+!{
+#define
+g scene_part_18 0
+clone 0 0 0 0 lm_8028a 0
+clone 0 0 0 0 ww_8028a 0
+clone 0 0 0 0 ww_8028b 0
+!}

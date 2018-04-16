@@ -1,0 +1,18 @@
+#include ../stems/ww_1520.obj
+#include ../stems/ww_154.obj
+#include ../stems/ww_350.obj
+#include ../stems/ww_638.obj
+#include ../stems/ww_8082.obj
+#include ../stems/ww_8083.obj
+#include ../stems/ww_893b.obj
+!{
+#define
+g scene_part_29 0
+clone 0 0 0 0 ww_1520 0
+clone 0 0 0 0 ww_154 0
+clone 0 0 0 0 ww_350 0
+clone 0 0 0 0 ww_638 0
+clone 0 0 0 0 ww_8082 0
+clone 0 0 0 0 ww_8083 0
+clone 0 0 0 0 ww_893b 0
+!}

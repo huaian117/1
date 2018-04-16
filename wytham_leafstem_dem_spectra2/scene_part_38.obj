@@ -1,0 +1,8 @@
+#include ../leaves/lm_202.obj
+#include ../stems/ww_202.obj
+!{
+#define
+g scene_part_38 0
+clone 0 0 0 0 lm_202 0
+clone 0 0 0 0 ww_202 0
+!}

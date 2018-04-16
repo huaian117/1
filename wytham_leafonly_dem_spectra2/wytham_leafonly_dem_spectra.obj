@@ -1,0 +1,267 @@
+mtllib materials_wytham_leafonly_dem_spectra.matlib
+#include ../dems/terrain_dem_zoomspec.obj
+#include scene_part_1.obj
+#include scene_part_2.obj
+#include scene_part_4.obj
+#include scene_part_5.obj
+#include scene_part_6.obj
+#include scene_part_7.obj
+#include scene_part_8.obj
+#include scene_part_9.obj
+#include scene_part_10.obj
+#include scene_part_11.obj
+#include scene_part_12.obj
+#include scene_part_13.obj
+#include scene_part_14.obj
+#include scene_part_15.obj
+#include scene_part_16.obj
+#include scene_part_17.obj
+#include scene_part_18.obj
+#include scene_part_19.obj
+#include scene_part_20.obj
+#include scene_part_21.obj
+#include scene_part_22.obj
+#include scene_part_23.obj
+#include scene_part_24.obj
+#include scene_part_25.obj
+#include scene_part_26.obj
+#include scene_part_27.obj
+#include scene_part_28.obj
+#include scene_part_29.obj
+#include scene_part_30.obj
+#include scene_part_31.obj
+#include scene_part_33.obj
+#include scene_part_34.obj
+#include scene_part_35.obj
+#include scene_part_36.obj
+#include scene_part_38.obj
+#include scene_part_39.obj
+#include scene_part_40.obj
+#include scene_part_41.obj
+#include scene_part_43.obj
+#include scene_part_44.obj
+#include scene_part_45.obj
+#include scene_part_46.obj
+#include scene_part_47.obj
+#include scene_part_48.obj
+#include scene_part_52.obj
+#include scene_part_53.obj
+#include scene_part_54.obj
+#include scene_part_55.obj
+#include scene_part_56.obj
+#include scene_part_57.obj
+#include scene_part_58.obj
+#include scene_part_59.obj
+#include scene_part_60.obj
+#include scene_part_62.obj
+#include scene_part_64.obj
+#include scene_part_66.obj
+#include scene_part_67.obj
+#include scene_part_68.obj
+#include scene_part_69.obj
+#include scene_part_70.obj
+#include scene_part_71.obj
+#include scene_part_72.obj
+#include scene_part_73.obj
+#include scene_part_75.obj
+#include scene_part_76.obj
+#include scene_part_77.obj
+#include scene_part_78.obj
+#include scene_part_79.obj
+#include scene_part_80.obj
+#include scene_part_82.obj
+#include scene_part_83.obj
+#include scene_part_84.obj
+#include scene_part_85.obj
+#include scene_part_86.obj
+#include scene_part_87.obj
+#include scene_part_88.obj
+#include scene_part_89.obj
+#include scene_part_90.obj
+#include scene_part_91.obj
+#include scene_part_92.obj
+#include scene_part_93.obj
+#include scene_part_94.obj
+#include scene_part_95.obj
+#include scene_part_96.obj
+#include scene_part_97.obj
+#include scene_part_98.obj
+#include scene_part_99.obj
+#include scene_part_100.obj
+#include scene_part_101.obj
+#include scene_part_102.obj
+#include scene_part_103.obj
+#include scene_part_104.obj
+#include scene_part_105.obj
+#include scene_part_106.obj
+#include scene_part_107.obj
+#include scene_part_108.obj
+#include scene_part_109.obj
+#include scene_part_110.obj
+#include scene_part_111.obj
+#include scene_part_112.obj
+#include scene_part_113.obj
+#include scene_part_114.obj
+#include scene_part_115.obj
+#include scene_part_116.obj
+#include scene_part_117.obj
+#include scene_part_118.obj
+#include scene_part_119.obj
+#include scene_part_120.obj
+#include scene_part_121.obj
+#include scene_part_122.obj
+#include scene_part_123.obj
+#include scene_part_124.obj
+#include scene_part_125.obj
+#include scene_part_126.obj
+#include scene_part_127.obj
+#include scene_part_128.obj
+#include scene_part_129.obj
+#include scene_part_130.obj
+#include scene_part_131.obj
+#include scene_part_132.obj
+#include scene_part_133.obj
+#include scene_part_134.obj
+#include scene_part_135.obj
+#include scene_part_136.obj
+#include scene_part_137.obj
+#include scene_part_138.obj
+#include scene_part_139.obj
+#include scene_part_140.obj
+#include scene_part_141.obj
+#include scene_part_142.obj
+#include scene_part_143.obj
+!{
+clone 0 0 0 0 terrain_dem_zoomspec 0
+clone 0 0 0 0 scene_part_1 0
+clone 0 0 0 0 scene_part_2 0
+clone 0 0 0 0 scene_part_4 0
+clone 0 0 0 0 scene_part_5 0
+clone 0 0 0 0 scene_part_6 0
+clone 0 0 0 0 scene_part_7 0
+clone 0 0 0 0 scene_part_8 0
+clone 0 0 0 0 scene_part_9 0
+clone 0 0 0 0 scene_part_10 0
+clone 0 0 0 0 scene_part_11 0
+clone 0 0 0 0 scene_part_12 0
+clone 0 0 0 0 scene_part_13 0
+clone 0 0 0 0 scene_part_14 0
+clone 0 0 0 0 scene_part_15 0
+clone 0 0 0 0 scene_part_16 0
+clone 0 0 0 0 scene_part_17 0
+clone 0 0 0 0 scene_part_18 0
+clone 0 0 0 0 scene_part_19 0
+clone 0 0 0 0 scene_part_20 0
+clone 0 0 0 0 scene_part_21 0
+clone 0 0 0 0 scene_part_22 0
+clone 0 0 0 0 scene_part_23 0
+clone 0 0 0 0 scene_part_24 0
+clone 0 0 0 0 scene_part_25 0
+clone 0 0 0 0 scene_part_26 0
+clone 0 0 0 0 scene_part_27 0
+clone 0 0 0 0 scene_part_28 0
+clone 0 0 0 0 scene_part_29 0
+clone 0 0 0 0 scene_part_30 0
+clone 0 0 0 0 scene_part_31 0
+clone 0 0 0 0 scene_part_33 0
+clone 0 0 0 0 scene_part_34 0
+clone 0 0 0 0 scene_part_35 0
+clone 0 0 0 0 scene_part_36 0
+clone 0 0 0 0 scene_part_38 0
+clone 0 0 0 0 scene_part_39 0
+clone 0 0 0 0 scene_part_40 0
+clone 0 0 0 0 scene_part_41 0
+clone 0 0 0 0 scene_part_43 0
+clone 0 0 0 0 scene_part_44 0
+clone 0 0 0 0 scene_part_45 0
+clone 0 0 0 0 scene_part_46 0
+clone 0 0 0 0 scene_part_47 0
+clone 0 0 0 0 scene_part_48 0
+clone 0 0 0 0 scene_part_52 0
+clone 0 0 0 0 scene_part_53 0
+clone 0 0 0 0 scene_part_54 0
+clone 0 0 0 0 scene_part_55 0
+clone 0 0 0 0 scene_part_56 0
+clone 0 0 0 0 scene_part_57 0
+clone 0 0 0 0 scene_part_58 0
+clone 0 0 0 0 scene_part_59 0
+clone 0 0 0 0 scene_part_60 0
+clone 0 0 0 0 scene_part_62 0
+clone 0 0 0 0 scene_part_64 0
+clone 0 0 0 0 scene_part_66 0
+clone 0 0 0 0 scene_part_67 0
+clone 0 0 0 0 scene_part_68 0
+clone 0 0 0 0 scene_part_69 0
+clone 0 0 0 0 scene_part_70 0
+clone 0 0 0 0 scene_part_71 0
+clone 0 0 0 0 scene_part_72 0
+clone 0 0 0 0 scene_part_73 0
+clone 0 0 0 0 scene_part_75 0
+clone 0 0 0 0 scene_part_76 0
+clone 0 0 0 0 scene_part_77 0
+clone 0 0 0 0 scene_part_78 0
+clone 0 0 0 0 scene_part_79 0
+clone 0 0 0 0 scene_part_80 0
+clone 0 0 0 0 scene_part_82 0
+clone 0 0 0 0 scene_part_83 0
+clone 0 0 0 0 scene_part_84 0
+clone 0 0 0 0 scene_part_85 0
+clone 0 0 0 0 scene_part_86 0
+clone 0 0 0 0 scene_part_87 0
+clone 0 0 0 0 scene_part_88 0
+clone 0 0 0 0 scene_part_89 0
+clone 0 0 0 0 scene_part_90 0
+clone 0 0 0 0 scene_part_91 0
+clone 0 0 0 0 scene_part_92 0
+clone 0 0 0 0 scene_part_93 0
+clone 0 0 0 0 scene_part_94 0
+clone 0 0 0 0 scene_part_95 0
+clone 0 0 0 0 scene_part_96 0
+clone 0 0 0 0 scene_part_97 0
+clone 0 0 0 0 scene_part_98 0
+clone 0 0 0 0 scene_part_99 0
+clone 0 0 0 0 scene_part_100 0
+clone 0 0 0 0 scene_part_101 0
+clone 0 0 0 0 scene_part_102 0
+clone 0 0 0 0 scene_part_103 0
+clone 0 0 0 0 scene_part_104 0
+clone 0 0 0 0 scene_part_105 0
+clone 0 0 0 0 scene_part_106 0
+clone 0 0 0 0 scene_part_107 0
+clone 0 0 0 0 scene_part_108 0
+clone 0 0 0 0 scene_part_109 0
+clone 0 0 0 0 scene_part_110 0
+clone 0 0 0 0 scene_part_111 0
+clone 0 0 0 0 scene_part_112 0
+clone 0 0 0 0 scene_part_113 0
+clone 0 0 0 0 scene_part_114 0
+clone 0 0 0 0 scene_part_115 0
+clone 0 0 0 0 scene_part_116 0
+clone 0 0 0 0 scene_part_117 0
+clone 0 0 0 0 scene_part_118 0
+clone 0 0 0 0 scene_part_119 0
+clone 0 0 0 0 scene_part_120 0
+clone 0 0 0 0 scene_part_121 0
+clone 0 0 0 0 scene_part_122 0
+clone 0 0 0 0 scene_part_123 0
+clone 0 0 0 0 scene_part_124 0
+clone 0 0 0 0 scene_part_125 0
+clone 0 0 0 0 scene_part_126 0
+clone 0 0 0 0 scene_part_127 0
+clone 0 0 0 0 scene_part_128 0
+clone 0 0 0 0 scene_part_129 0
+clone 0 0 0 0 scene_part_130 0
+clone 0 0 0 0 scene_part_131 0
+clone 0 0 0 0 scene_part_132 0
+clone 0 0 0 0 scene_part_133 0
+clone 0 0 0 0 scene_part_134 0
+clone 0 0 0 0 scene_part_135 0
+clone 0 0 0 0 scene_part_136 0
+clone 0 0 0 0 scene_part_137 0
+clone 0 0 0 0 scene_part_138 0
+clone 0 0 0 0 scene_part_139 0
+clone 0 0 0 0 scene_part_140 0
+clone 0 0 0 0 scene_part_141 0
+clone 0 0 0 0 scene_part_142 0
+clone 0 0 0 0 scene_part_143 0
+!}

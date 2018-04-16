@@ -1,0 +1,24 @@
+#include ../stems/ww_203.obj
+#include ../stems/ww_2091.obj
+#include ../stems/ww_2176.obj
+#include ../stems/ww_8085.obj
+#include ../stems/ww_8086a.obj
+#include ../stems/ww_8086b.obj
+#include ../stems/ww_8088c.obj
+#include ../stems/ww_8089.obj
+#include ../stems/ww_9107a.obj
+#include ../stems/ww_9107b.obj
+!{
+#define
+g scene_part_10 0
+clone 0 0 0 0 ww_203 0
+clone 0 0 0 0 ww_2091 0
+clone 0 0 0 0 ww_2176 0
+clone 0 0 0 0 ww_8085 0
+clone 0 0 0 0 ww_8086a 0
+clone 0 0 0 0 ww_8086b 0
+clone 0 0 0 0 ww_8088c 0
+clone 0 0 0 0 ww_8089 0
+clone 0 0 0 0 ww_9107a 0
+clone 0 0 0 0 ww_9107b 0
+!}

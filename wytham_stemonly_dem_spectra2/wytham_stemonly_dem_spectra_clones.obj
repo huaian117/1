@@ -1,0 +1,15 @@
+mtllib materials_wytham_stemonly_dem_spectra.matlib
+#include ../dems/terrain_dem_zoomspec.obj
+#include scene_all.obj
+!{
+clone 0 0 0 0 terrain_dem_zoomspec 0
+clone 0 0 0 0 scene_part_all 0
+clone -100 -100 0 0 scene_part_all 0
+clone 100 100 0 0 scene_part_all 0
+clone -100 100 0 0 scene_part_all 0
+clone 100 -100 7 0 scene_part_all 0
+clone -100 0 0 0 scene_part_all 0
+clone 100 0 0 0 scene_part_all 0
+clone 0 -100 0 0 scene_part_all 0
+clone 0 100 0 0 scene_part_all 0
+!}

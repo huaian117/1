@@ -1,0 +1,12 @@
+#include ../leaves/lm_255a.obj
+#include ../leaves/lm_255b.obj
+#include ../leaves/lm_255c.obj
+#include ../leaves/lm_255d.obj
+!{
+#define
+g scene_part_64 0
+clone 0 0 0 0 lm_255a 0
+clone 0 0 0 0 lm_255b 0
+clone 0 0 0 0 lm_255c 0
+clone 0 0 0 0 lm_255d 0
+!}

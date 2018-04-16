@@ -1,0 +1,12 @@
+#include ../leaves/lm_156.obj
+#include ../leaves/lm_473.obj
+#include ../stems/ww_156.obj
+#include ../stems/ww_473.obj
+!{
+#define
+g scene_part_66 0
+clone 0 0 0 0 lm_156 0
+clone 0 0 0 0 lm_473 0
+clone 0 0 0 0 ww_156 0
+clone 0 0 0 0 ww_473 0
+!}

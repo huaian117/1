@@ -1,0 +1,20 @@
+#include ../leaves/lm_1101.obj
+#include ../leaves/lm_8049a.obj
+#include ../leaves/lm_8049b.obj
+#include ../leaves/lm_8053b.obj
+#include ../leaves/lm_8054.obj
+#include ../leaves/lm_8055.obj
+#include ../leaves/lm_8057b.obj
+#include ../leaves/lm_958.obj
+!{
+#define
+g scene_part_109 0
+clone 0 0 0 0 lm_1101 0
+clone 0 0 0 0 lm_8049a 0
+clone 0 0 0 0 lm_8049b 0
+clone 0 0 0 0 lm_8053b 0
+clone 0 0 0 0 lm_8054 0
+clone 0 0 0 0 lm_8055 0
+clone 0 0 0 0 lm_8057b 0
+clone 0 0 0 0 lm_958 0
+!}

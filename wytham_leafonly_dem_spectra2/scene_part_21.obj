@@ -1,0 +1,24 @@
+#include ../leaves/lm_1074.obj
+#include ../leaves/lm_1532a.obj
+#include ../leaves/lm_1532b.obj
+#include ../leaves/lm_2049a.obj
+#include ../leaves/lm_2087.obj
+#include ../leaves/lm_8105a.obj
+#include ../leaves/lm_8105b.obj
+#include ../leaves/lm_8107b.obj
+#include ../leaves/lm_8107c.obj
+#include ../leaves/lm_8107d.obj
+!{
+#define
+g scene_part_21 0
+clone 0 0 0 0 lm_1074 0
+clone 0 0 0 0 lm_1532a 0
+clone 0 0 0 0 lm_1532b 0
+clone 0 0 0 0 lm_2049a 0
+clone 0 0 0 0 lm_2087 0
+clone 0 0 0 0 lm_8105a 0
+clone 0 0 0 0 lm_8105b 0
+clone 0 0 0 0 lm_8107b 0
+clone 0 0 0 0 lm_8107c 0
+clone 0 0 0 0 lm_8107d 0
+!}

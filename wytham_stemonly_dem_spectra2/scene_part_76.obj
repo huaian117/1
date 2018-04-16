@@ -1,0 +1,24 @@
+#include ../stems/ww_1395.obj
+#include ../stems/ww_1807.obj
+#include ../stems/ww_184a.obj
+#include ../stems/ww_184b.obj
+#include ../stems/ww_184c.obj
+#include ../stems/ww_8066.obj
+#include ../stems/ww_8067.obj
+#include ../stems/ww_927a.obj
+#include ../stems/ww_927c.obj
+#include ../stems/ww_927d.obj
+!{
+#define
+g scene_part_76 0
+clone 0 0 0 0 ww_1395 0
+clone 0 0 0 0 ww_1807 0
+clone 0 0 0 0 ww_184a 0
+clone 0 0 0 0 ww_184b 0
+clone 0 0 0 0 ww_184c 0
+clone 0 0 0 0 ww_8066 0
+clone 0 0 0 0 ww_8067 0
+clone 0 0 0 0 ww_927a 0
+clone 0 0 0 0 ww_927c 0
+clone 0 0 0 0 ww_927d 0
+!}
