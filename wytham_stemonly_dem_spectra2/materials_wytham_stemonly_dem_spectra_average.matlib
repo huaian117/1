@@ -1,0 +1,8 @@
+srm dem_spectra ../materials/understory/P1_S1_interpolated.dat
+srm ww_ACERCA ../materials/stemspec/ACERCA.dat
+srm ww_ACERPS ../materials/stemspec/ACERPS.dat
+srm ww_CORYAV ../materials/stemspec/CORYAV.dat
+srm ww_CRATMO ../materials/stemspec/CRATMO.dat
+srm ww_FRAXEX ../materials/stemspec/FRAXEX.dat
+srm ww_NA ../materials/stemspec/NA.dat
+srm ww_QUERRO ../materials/stemspec/QUERRO.dat

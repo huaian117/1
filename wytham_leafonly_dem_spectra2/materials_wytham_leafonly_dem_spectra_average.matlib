@@ -1,0 +1,8 @@
+srm dem_spectra ../materials/understory/P1_S1_interpolated.dat
+srm lm_ACERCA ../materials/leafspec/ACERCAprospect.dat
+srm lm_ACERPS ../materials/leafspec/ACERPSprospect.dat
+srm lm_CORYAV ../materials/leafspec/CORYAVprospect.dat
+srm lm_CRATMO ../materials/leafspec/CRATMOprospect.dat
+srm lm_FRAXEX ../materials/leafspec/FRAXEXprospect.dat
+srm lm_NA ../materials/leafspec/NAprospect.dat
+srm lm_QUERRO ../materials/leafspec/QUERROprospect.dat

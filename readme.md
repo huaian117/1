@@ -23,7 +23,10 @@ The 3D information is stored in *obj* files and can readily be used in the *libr
 This project is licensed under the [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License](https://creativecommons.org/licenses/by-nc/4.0/). Please cite Calders et al. (2018) when using this 3D scene. 
 
 ## Reference
-Calders, K., Origo, N., Burt, A., Disney, M. Nightingale, J., Raumonen, P., Akerblom, M, Malhi, Y. and Lewis, P. (2018) Realistic forest stand reconstruction from terrestrial LiDAR for radiative transfer modelling. *Remote Sensing*, **10**(6):1-15 [pdf](http://www.mdpi.com/2072-4292/10/6/933/pdf)
+Calders, K., Origo, N., Burt, A., Disney, M. Nightingale, J., Raumonen, P., Akerblom, M, Malhi, Y. and Lewis, P. Virtual forest for radiative transfer modelling: realistic stand reconstruction from terrestrial LiDAR. Remote Sensing (2018, in review)
 
 ## Acknowledgements
 The research leading to these results was funded through the Metrology for Earth Observation and Climate project (MetEOC-2), grant number ENV55 within the European Metrology Research Programme (EMRP). The EMRP is jointly funded by the EMRP participating countries within EURAMET and the European Union.
+
+## Updates
+Version 3 (on master) includes updates to the number of leaves (version2 had half as many leaves as intended) and updated spectra. The latter has been created by using the measured leaf reflectances to invert the PROSPECT model and return the reflectance and transmittance. This is not an ideal method but it is the best I can do without transmittance data. The prospect parameters can also be found in the `materials/leafspec` directory.

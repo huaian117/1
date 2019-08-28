@@ -1,0 +1,2 @@
+Run on mac using (in wytham_leafstem_spectra2 dir):
+python ../../scene_creation_tools/createDemObject.py -d ../../dem.txt -mmpl ../materials/understory/ -objl ../dems/ -dan spectra

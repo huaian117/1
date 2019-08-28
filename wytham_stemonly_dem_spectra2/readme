@@ -1,0 +1,3 @@
+This scene was made with this command:
+
+python ../../scene_creation_tools/createScene.py -o wytham_stemonly_dem_spectra.obj -s ../stems/ww_* -t ../dems/dem_spectra.obj -m materials_wytham_stemonly_dem_spectra.matlib -x -wd ../materials/stemspec/ -sd ../materials/understory

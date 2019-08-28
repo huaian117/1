@@ -1,8 +1,10 @@
-mtllib materials_wytham_stemonly_dem_spectra.matlib
-#include ../dems/terrain_dem_zoomspec.obj
+mtllib materials_wytham_stemonly_dem_spectra_average.matlib
 #include scene_all.obj
 !{
-clone 0 0 0 0 terrain_dem_zoomspec 0
+usemtl dem_spectra
+DEM -extent 200 300 -filename dem_spectra_1.hips -origin 0. 0. 0.000000
+!}
+!{
 clone 0 0 0 0 scene_part_all 0
 clone -100 -100 0 0 scene_part_all 0
 clone 100 100 0 0 scene_part_all 0

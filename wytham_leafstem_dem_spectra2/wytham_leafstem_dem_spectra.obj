@@ -1,5 +1,4 @@
-mtllib materials_wytham_leafstem_dem_spectra.matlib
-#include ../dems/terrain_dem_zoomspec.obj
+mtllib materials_wytham_leafstem_dem_spectra_average.matlib
 #include scene_part_1.obj
 #include scene_part_2.obj
 #include scene_part_4.obj
@@ -134,7 +133,10 @@ mtllib materials_wytham_leafstem_dem_spectra.matlib
 #include scene_part_142.obj
 #include scene_part_143.obj
 !{
-clone 0 0 0 0 terrain_dem_zoomspec 0
+usemtl dem_spectra
+DEM -extent 200 300 -filename ../dems/dem_spectra_1.hips -origin 0. 0. 0.000000
+!}
+!{
 clone 0 0 0 0 scene_part_1 0
 clone 0 0 0 0 scene_part_2 0
 clone 0 0 0 0 scene_part_4 0
