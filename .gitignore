@@ -1,3 +1,4 @@
 *.hips
 *.png
 *.log
+!dems/dem_spectra_1.hips
