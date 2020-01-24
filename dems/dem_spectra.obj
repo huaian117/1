@@ -2,5 +2,5 @@
 #define
 g dem_spectra 0
 usemtl dem_spectra
-DEM -extent 200 300 -filename dem_spectra_1.hips -origin 0. 0. 0.000000
+DEM -extent 260 378 -filename dem_spectra_1.hips -origin -28. -26. 0.000000
 !}

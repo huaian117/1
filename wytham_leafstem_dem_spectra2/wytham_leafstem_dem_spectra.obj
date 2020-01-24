@@ -134,7 +134,7 @@ mtllib materials_wytham_leafstem_dem_spectra_average.matlib
 #include scene_part_143.obj
 !{
 usemtl dem_spectra
-DEM -extent 200 300 -filename ../dems/dem_spectra_1.hips -origin 0. 0. 0.000000
+DEM -extent 260 378 -filename ../dems/dem_spectra_1.hips -origin -28. -26. 0.000000
 !}
 !{
 clone 0 0 0 0 scene_part_1 0

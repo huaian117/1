@@ -29,4 +29,5 @@ Calders, K., Origo, N., Burt, A., Disney, M. Nightingale, J., Raumonen, P., Aker
 The research leading to these results was funded through the Metrology for Earth Observation and Climate project (MetEOC-2), grant number ENV55 within the European Metrology Research Programme (EMRP). The EMRP is jointly funded by the EMRP participating countries within EURAMET and the European Union.
 
 ## Updates
-Version 3 (on master) includes updates to the number of leaves (version2 had half as many leaves as intended) and updated spectra. The latter has been created by using the measured leaf reflectances to invert the PROSPECT model and return the reflectance and transmittance. This is not an ideal method but it is the best I can do without transmittance data. The prospect parameters can also be found in the `materials/leafspec` directory.
+Version 4 (on master) fixes an error where the DEM wasn't positioned correctly.
+Version 3 (on version3) includes updates to the number of leaves (version2 had half as many leaves as intended) and updated spectra. The latter has been created by using the measured leaf reflectances to invert the PROSPECT model and return the reflectance and transmittance. This is not an ideal method but it is the best I can do without transmittance data. The prospect parameters can also be found in the `materials/leafspec` directory.
